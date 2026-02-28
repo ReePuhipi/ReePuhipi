@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🌺 Kia Ora, I'm Ree 👋
 
-<!--
-**ReePuhipi/ReePuhipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Welcome to my GitHub 👽 
 
-Here are some ideas to get you started:
+<img width="1366" height="768" alt="Untitled design" src="https://github.com/user-attachments/assets/0f5c6ba1-67d3-4fe1-85c6-d4c82ef87ab1" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 🌱 I’m currently learning Full Stack Development 
+
+ 📚 Focused on upskilling
+
+ 🪢 Currently learning the ropes
+ 
+
+
+
